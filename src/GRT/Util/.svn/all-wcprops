@@ -1,0 +1,245 @@
+K 25
+svn:wc:ra_dav:version-url
+V 26
+/svn/!svn/ver/229/GRT/Util
+END
+ClassificationResult.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/229/GRT/Util/ClassificationResult.h
+END
+ErrorLog.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/229/GRT/Util/ErrorLog.h
+END
+SVD.h
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/229/GRT/Util/SVD.h
+END
+TrainingDataRecordingTimer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/145/GRT/Util/TrainingDataRecordingTimer.cpp
+END
+MatrixDouble.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/229/GRT/Util/MatrixDouble.h
+END
+RangeTracker.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/22/GRT/Util/RangeTracker.cpp
+END
+Matrix.h
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/229/GRT/Util/Matrix.h
+END
+GRTCommon.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/229/GRT/Util/GRTCommon.h
+END
+WarningLog.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/229/GRT/Util/WarningLog.h
+END
+Util.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/226/GRT/Util/Util.cpp
+END
+TrainingLog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/22/GRT/Util/TrainingLog.cpp
+END
+IndexedDouble.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/229/GRT/Util/IndexedDouble.h
+END
+LabelledTimeSeriesClassificationSampleTrimmer.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/229/GRT/Util/LabelledTimeSeriesClassificationSampleTrimmer.h
+END
+GRTVersionInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/229/GRT/Util/GRTVersionInfo.h
+END
+LUdcmp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/177/GRT/Util/LUdcmp.cpp
+END
+TestingLog.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/229/GRT/Util/TestingLog.h
+END
+Timer.h
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/229/GRT/Util/Timer.h
+END
+Random.h
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/229/GRT/Util/Random.h
+END
+Cholesky.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/229/GRT/Util/Cholesky.h
+END
+EigenvalueDecomposition.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/229/GRT/Util/EigenvalueDecomposition.h
+END
+Log.h
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/229/GRT/Util/Log.h
+END
+ErrorLog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/22/GRT/Util/ErrorLog.cpp
+END
+SVD.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/229/GRT/Util/SVD.cpp
+END
+DebugLog.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/229/GRT/Util/DebugLog.h
+END
+MinMax.h
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/229/GRT/Util/MinMax.h
+END
+MatrixDouble.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/206/GRT/Util/MatrixDouble.cpp
+END
+FileParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/229/GRT/Util/FileParser.h
+END
+CircularBuffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/229/GRT/Util/CircularBuffer.h
+END
+WarningLog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/22/GRT/Util/WarningLog.cpp
+END
+TrainingDataRecordingTimer.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/229/GRT/Util/TrainingDataRecordingTimer.h
+END
+LabelledTimeSeriesClassificationSampleTrimmer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/208/GRT/Util/LabelledTimeSeriesClassificationSampleTrimmer.cpp
+END
+RangeTracker.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/229/GRT/Util/RangeTracker.h
+END
+TestingLog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/201/GRT/Util/TestingLog.cpp
+END
+EigenvalueDecomposition.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/229/GRT/Util/EigenvalueDecomposition.cpp
+END
+Cholesky.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/151/GRT/Util/Cholesky.cpp
+END
+Util.h
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/229/GRT/Util/Util.h
+END
+TrainingLog.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/229/GRT/Util/TrainingLog.h
+END
+ClassTracker.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/229/GRT/Util/ClassTracker.h
+END
+DebugLog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/57/GRT/Util/DebugLog.cpp
+END
+LUdcmp.h
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/229/GRT/Util/LUdcmp.h
+END

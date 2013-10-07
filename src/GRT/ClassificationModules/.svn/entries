@@ -1,0 +1,61 @@
+10
+
+dir
+235
+http://gesture-recognition-toolkit.googlecode.com/svn/GRT/ClassificationModules
+http://gesture-recognition-toolkit.googlecode.com/svn
+
+
+
+2013-09-18T15:57:19.091144Z
+232
+nickgillian@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+b7119413-dbb8-8e7e-ee4e-9c4485486526
+
+LDA
+dir
+
+GMM
+dir
+
+HMM
+dir
+
+Softmax
+dir
+
+ANBC
+dir
+
+SVM
+dir
+
+KNN
+dir
+
+MinDist
+dir
+
+BAG
+dir
+
+AdaBoost
+dir
+
+DTW
+dir
+
